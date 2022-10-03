@@ -36,5 +36,5 @@ services:
 - mysql:need
 slug: elias-custom-npm
 url: https://github.com/elias1731/elias-custom-ha-repo/
-version: A02.0.12.2
+version: 0.12.2
 webui: http://[HOST]:[PORT:81]
