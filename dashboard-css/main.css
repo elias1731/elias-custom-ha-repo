@@ -1,0 +1,19 @@
+style:
+  hui-horizontal-stack-card$: |
+    hui-entities-card {
+      margin-left: 10px !important;
+      margin-right: 10px !important;
+      margin-bottom: 10px !important;
+      width: 150%;
+      flex: auto !important; 
+    }
+    mini-graph-card {
+      margin-right: 10px !important;
+      margin-bottom: 10px !important;
+      flex: auto !important; 
+    }
+  .: |
+    ha-card {
+      background-color: lightblue;
+      --ha-card-background: rgba(50,50,50,0.1);
+}
