@@ -71,9 +71,14 @@ Manage Nginx proxy hosts with a simple, powerful interface.
 
 ---
 
-### [A03 | Add-on 3](https://elias1731.de/info)
+### [A03 | !TESTING! motion (CCTV Server)](./motion-standalone)
 
-> coming soon (ig)
+It's basically the motionEye Add-on without the better frontend.
+= "motion" as standalone server.
+
+I hope to achieve a smoother experience with camera streams on low-spec HA servers.
+
+I haven't done a single performance test so far tbh.. So.. fingers crossed ig :)  
 
 <!--#A01-->
 
