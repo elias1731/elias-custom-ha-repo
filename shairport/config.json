@@ -1,9 +1,9 @@
 {
-  "name": "Shairport Sync",
-  "version": "1.0.7",
+  "name": "Shairport-Sync AIRPLAY2",
+  "version": "1.0.0",
   "slug": "shairport_sync_upgraded",
   "description": "Shairport Sync for Hass.io",
-  "url": "https://github.com/szokeptr/addon-shairport-sync",
+  "url": "https://github.com/elias1731/elias-custom-ha-repo/shairport",
   "startup": "application",
   "arch": [
     "aarch64",
