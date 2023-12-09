@@ -71,12 +71,7 @@ Manage Nginx proxy hosts with a simple, powerful interface.
 
 ---
 
-### [A03 | !TESTING! motion (CCTV Server)](./motion-standalone)
-
-It's basically the motionEye Add-on without the better frontend.
-= "motion" as standalone server.
-
-I hope to achieve a smoother experience with camera streams on low-spec HA servers.
+### [A03 | !TESTING! shairport-sync (AirPlay2 Server)](./shairport)
 
 I haven't done a single performance test so far tbh.. So.. fingers crossed ig :)  
 
