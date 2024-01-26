@@ -71,7 +71,7 @@ Manage Nginx proxy hosts with a simple, powerful interface.
 
 ---
 
-### [A03 | !TESTING! shairport-sync (AirPlay2 Server)](./shairport)
+### [A03/04 | !TESTING! shairport-sync/mcbeproxy (AirPlay2/MCBEProxy Server)](./shairport ; ./mcbeproxy)
 
 I haven't done a single performance test so far tbh.. So.. fingers crossed ig :)  
 

@@ -1,0 +1,14 @@
+[
+	{
+		"name": "Localhost",
+		"iconUrl": "https://camo.githubusercontent.com/c6dc6cd5b3de06b3cfd389b4ff6a9fab1ecec0c4f0b1b91c3216fb1df76603df/68747470733a2f2f692e696d6775722e636f6d2f48397a567a47542e706e67",
+		"address": "127.0.0.1",
+		"port": 19132
+	},
+	{
+		"name": "Public BedrockConnect",
+		"iconUrl": "https://camo.githubusercontent.com/c25a7ba4eccf349a7372f48c7f2eb0ab3e3c95eff8d5ee4ecea03982dab4a685/68747470733a2f2f666c616769636f6e732e6c697069732e6465762f666c6167732f3478332f64652e737667",
+		"address": "217.160.58.93",
+		"port": 19132
+	}
+]

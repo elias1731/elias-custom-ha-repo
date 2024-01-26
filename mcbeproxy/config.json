@@ -1,0 +1,25 @@
+{
+  "name": "Elias' MC Bedrock Proxy",
+  "version": "1.0.0",
+  "slug": "mcbeproxy",
+  "description": "BedrockConnect paired with MCXboxBroadcast",
+  "url": "https://github.com/elias1731/elias-custom-ha-repo/",
+  "advanced": true,
+  "ingress": true,
+  "ingress_stream": true,
+  "startup": "services",
+  "arch": ["aarch64", "amd64", "armhf", "armv7"],
+  "init": false,
+  "audio": false,
+  "ports": {
+    "19132/udp": null
+  },
+  "ports_description": {
+    "19132/udp": "Minecraft Bedrock Server Port"
+  },
+  "hassio_api": true,
+  "docker_api": true,
+  "schema": {
+    "log_level": "list(trace|debug|info|notice|warning|error|fatal)?",
+  }
+}
